@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @satoshiyamanaka
-- 👀 I’m interested in cultural experiences, mindfulness, and building businesses.
-- 🌱 I’m currently learning fundamentals of software engineering.
-- 💞️ I’m looking to collaborate on with people of various backgrounds.So with you.
+-👀私は文化体験、マインドフルネス、新しいビジネスの構築に興味があります。
+-🌱私は現在、自己啓発としてソフトウェアエンジニアリングの基礎を学んでいます。機械学習を学んでいきたいと考えています。
+-💞️私はさまざまなバックグラウンドの人々と協力したいと思っています。あなたと一緒に。
 - 📫 How to reach me ...https://www.linkedin.com/in/satoshi-yamanaka-9ba018185/
 
 <!---
